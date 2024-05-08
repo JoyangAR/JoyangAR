@@ -17,10 +17,7 @@ Greetings! I'm your friendly tech enthusiast, juggling the realms of tech suppor
 
 Mastering the art of tech support, resolving issues, and coding solutions. Aiming to make the digital world a better place, one ticket at a time.
 
-## Light Humor 😄
-
-Q: Why did the developer go broke?
-A: Because he used up all his cache!
+## Closing 😄
 
 For any tech-related inquiries or just a casual chat, ping me on [Telegram](http://t.me/YourTelegramHandle).
 
