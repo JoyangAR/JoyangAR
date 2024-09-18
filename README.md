@@ -5,7 +5,7 @@ Greetings! I'm your friendly tech enthusiast, juggling the realms of tech suppor
 ## About Me
 
 - 💼 Tech Support Specialist
-- 💻 Skills: Visual Basic, C#, Batch, SQL
+- 💻 Skills: Visual Basic, C#, Delphi, Batch, SQL
 
 ## My Toolbox 🧰
 
